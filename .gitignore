@@ -1,0 +1,10 @@
+# macOS system files
+.DS_Store
+
+# Java compiled files
+*.class
+
+# VS Code workspace settings
+.vscode/
+# Exclude generated tickets containing personal information
+tickets/
